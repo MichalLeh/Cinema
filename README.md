@@ -6,4 +6,4 @@ Cinema app is simple interface inspired by web based Movie theatre apps for sell
 - You can create completely new database running database.py or use database.db file.
 
 # App project structure:
--/Images/ contains .png files for Cinema control buttons.
+- /Images/ contains .png files for Cinema control buttons.
